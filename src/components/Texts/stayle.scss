@@ -1,0 +1,56 @@
+.header {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #000000;
+}
+
+.text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6c6c6c;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 20px 40px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  border: none;
+  background: #ac1313;
+  cursor: pointer;
+}
+
+.bg {
+  background-color: #000000;
+}
+
+.text__red {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #d77474;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 36px;
+  color: #000000;
+  margin-bottom: 25px;
+  max-width: 350px;
+}

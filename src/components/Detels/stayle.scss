@@ -1,0 +1,35 @@
+.rewers {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.rows {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.detel {
+  max-width: 450px;
+
+  &__link {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    text-decoration: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .images {
+    width: 300px;
+  }
+}

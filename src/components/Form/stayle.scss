@@ -1,0 +1,29 @@
+.form {
+  margin-top: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 150px;
+
+  img {
+    margin-bottom: 40px;
+  }
+
+  &__wrapper {
+    margin-top: 30px;
+  }
+
+  &__input {
+    padding-left: 10px;
+    min-width: 320px;
+    height: 60px;
+    border: 1px solid #ebebeb;
+    outline: none;
+    margin-bottom: 20px;
+  }
+
+  &__chex {
+    margin-right: 10px;
+  }
+}
